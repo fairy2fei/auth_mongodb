@@ -1,6 +1,6 @@
 # auth_mongodb
 
-This is a Single Page Application that handles users login. Using vuejs, vuex and MongoDB Atlas.
+This is a Single Page Application that handles users login. Using vuejs, vuex, Bootstrap and MongoDB Atlas.
 
 First, use command "npm install" in both client and server folder. 
 
